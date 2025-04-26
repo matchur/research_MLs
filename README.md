@@ -1,5 +1,7 @@
 # Machine Learning Research
 
+<img src="src/png_capa.png" alt="Capa" width="600"/>
+
 Bem-vindo ao meu repositório de estudos e projetos de Machine Learning (ML) e Deep Learning (DL). Este espaço é dedicado à exploração, desenvolvimento e implementação de modelos de inteligência artificial utilizando os frameworks TensorFlow e PyTorch.
 
 Aqui, você encontrará notebooks, experimentos e implementações de algoritmos aplicados em visão computacional, processamento de linguagem natural e aprendizado profundo (Deep Learning). O objetivo deste repositório é documentar meu progresso, testar novas abordagens e construir soluções robustas para problemas reais de ML.
