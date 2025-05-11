@@ -17,3 +17,5 @@ pygame
 playsound
 pyjokes
 wikipedia
+pyaudio
+winshell
