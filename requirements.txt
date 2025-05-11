@@ -8,3 +8,12 @@ seaborn
 torchvision
 opencv-python
 xgboost
+shap
+gTTS
+transformers
+sentence-transformers
+SpeechRecognition
+pygame
+playsound
+pyjokes
+wikipedia
